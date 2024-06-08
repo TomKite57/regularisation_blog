@@ -10,10 +10,10 @@ utils.py: A Python script containing utility functions used in the notebook for 
 ## Requirements
 To run the code in this repository, you need the following dependencies:
 
-Python 3.x
-Jupyter Notebook
-NumPy
-SciPy
-Matplotlib
-scikit-learn
-Any other dependencies listed in the respective files
+* Python 3.x
+* Jupyter Notebook
+* NumPy
+* SciPy
+* Matplotlib
+* scikit-learn
+* Any other dependencies listed in the respective files
